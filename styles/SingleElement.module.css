@@ -1,0 +1,62 @@
+.back {
+  position: absolute;
+  top: 20px;
+  left: 55px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.back > div {
+  border-radius: 50%;
+  width: 3vw;
+  height: 3vw;
+  border-radius: 50%;
+  border: 8px solid #377cbf;
+  margin-right: 15px;
+}
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 0px;
+  font-size: 1.5vw;
+  font-weight: 100;
+}
+.wrapper > div {
+  width: 100%;
+  height: 100%;
+  background: #06448396;
+  margin: 0px;
+  padding: 20px;
+}
+.wrapper > div > div {
+  max-width: 80%;
+  margin: 0px auto;
+}
+.listWrapper {
+  border: 5px solid #377cbf;
+  max-width: 100%;
+  min-height: 50%;
+  padding: 5px 0;
+  display: flex;
+  flex-direction: column;
+}
+.wrapper ul {
+  height: 100%;
+  margin: 0px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.wrapper ul > li {
+  text-align: left;
+  margin: 4px 0px;
+  flex: 1;
+}
+.descriptionContainer {
+  display: flex;
+  flex-direction: column;
+}
