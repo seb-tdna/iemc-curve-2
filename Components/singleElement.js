@@ -27,34 +27,34 @@ export default function SingleElement(props) {
 const COMPONENT_DATA = {
     Informational: {
         borderColor: '#3366CC',
-        imageUrl: '/slide/Informational.jpg',
+        imageUrl: '/slide/WEBSAFE_Informational.jpg',
         title: 'Informational',
-        subTitle: 'level two',
-        description: "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-        list: ['Data influenced decition culture', 'Data influenced decition culture', "Data influenced decition culture"]
+        subTitle: 'Level One',
+        description: "Small factions of individuals are using data in isolated groups to inform ad-hoc decision making, but core operational decisions are made based on experience",
+        list: ['Experiential-driven decision culture', 'Non-continuous hierarchical data flow', "Disparate technologies & applications", "Manual data processing & feedback"]
     },
     Integrated: {
         borderColor: '#6666CC',
-        imageUrl: '/slide/Integrated.jpg',
+        imageUrl: '/slide/WEBSAFE_Integrated.jpg',
         title: 'Integrated',
-        subTitle: 'level two',
-        description: "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-        list: ['Data influenced decition culture', 'Data influenced decition culture', "Data influenced decition culture"]
+        subTitle: 'Level Three',
+        description: "Decisions from shop floor to senior leadership are made based on data-driven information through self-service portals",
+        list: ['Information-influenced decision culture', 'Cohesive hierarchical data roll-ups', "Seamlessly integrated tech & apps", "Systemized data processing & ETL"]
     },
     Digitalized: {
         borderColor: '#6666CC',
-        imageUrl: '/slide/Digitalized.jpg',
+        imageUrl: '/slide/WEBSAFE_Digitalized.jpg',
         title: 'Digitalized',
-        subTitle: 'level two',
-        description: "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-        list: ['Data influenced decition culture', 'Data influenced decition culture', "Data influenced decition culture"]
+        subTitle: 'Level Two',
+        description: "Leadership has started to adopt digital decision making as the new norm with a central source of truth established for some core metrics. Culture still hampers site-wide adoption",
+        list: ['Data-influenced decision culture', 'Continuous hierarchical data flows', "Groupings of integrated technologies & applications", 'Data-capable workforce mixed throughout organization', "Mechanized data process"]
     },
     Automated: {
         borderColor: '#6633CC',
-        imageUrl: '/slide/Informational.jpg',
+        imageUrl: '/slide/WEBSAFE_Automated.jpg',
         title: 'Automated',
-        subTitle: 'level two',
-        description: "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-        list: ['Data influenced decition culture', 'Data influenced decition culture', "Data influenced decition culture"]
+        subTitle: 'Level Four',
+        description: "Optimized operational decisions are made automatically through digital twins with outputs driving shiftily decision making to maximize site-wide performance",
+        list: ['Information-influenced decision culture', 'Ecosystem of applications is utilized to drive improvements', "Workforce leveraging data to drive root cause analysis", 'System model validation and improvement cycles executed regularly by data-capable workforce', 'Central source of truth for all KPIs exists', "Decision making is based on leading indicators"]
     }
 }
