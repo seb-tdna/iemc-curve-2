@@ -7,10 +7,10 @@
   flex-direction: row;
 }
 .back > div {
-  border-radius: 50%;
+  border-radius: 20%;
   width: 3vw;
   height: 3vw;
-  border-radius: 50%;
+  border-radius: 20%;
   border: 5px solid #377cbf;
   margin-right: 15px;
 }
