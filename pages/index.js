@@ -23,7 +23,7 @@ export default function Home() {
         </div>
 
         <div className={styles.img_cont}>
-          <img src="/images/WEBSAFE_Digitalized.png" />
+          <img src="/images/WEBSAFE_Digitalized.jpg" />
         </div>
 
         <div className={styles.img_cont}>
