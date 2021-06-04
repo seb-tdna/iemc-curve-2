@@ -26,7 +26,7 @@ export default function SingleElement(props) {
 
 const COMPONENT_DATA = {
     Informational: {
-        borderColor: '#6666CC',
+        borderColor: '#3399CC',
         imageUrl: '/slide/WEBSAFE_Informational.jpg',
         title: 'Informational',
         subTitle: 'Level One',
