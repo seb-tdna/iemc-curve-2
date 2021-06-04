@@ -11,7 +11,7 @@
   width: 3vw;
   height: 3vw;
   border-radius: 50%;
-  border: 8px solid #377cbf;
+  border: 5px solid #377cbf;
   margin-right: 15px;
 }
 .wrapper {
@@ -36,8 +36,15 @@
   max-width: 80%;
   margin: 0px auto;
 }
-.listWrapper {
+/* .listWrapper {
   border: 5px solid #377cbf;
+  max-width: 100%;
+  min-height: 50%;
+  padding: 5px 0;
+  display: flex;
+  flex-direction: column;
+} */ 
+.listWrapper {
   max-width: 100%;
   min-height: 50%;
   padding: 5px 0;
