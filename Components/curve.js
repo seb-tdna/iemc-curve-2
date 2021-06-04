@@ -62,7 +62,7 @@ export default function Curve(props) {
         ctx.arc(X, Y, radius - 8, 0, 2 * Math.PI, true)
         ctx.strokeStyle = color
         ctx.stroke()
-        ctx.font = "300 22px arial"
+        ctx.font = "900 22px arial"
         ctx.beginPath()
         ctx.fillText(text, point.X - (ctx.measureText(text).width / 2 - 6), point.Y + 60)
         ctx.stroke()
