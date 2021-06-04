@@ -64,7 +64,7 @@ export default function Curve(props) {
         ctx.stroke()
         ctx.font = "300 22px arial"
         ctx.beginPath()
-        ctx.fillText(text, point.X - (ctx.measureText(text).width / 2 - 7), point.Y + 50)
+        ctx.fillText(text, point.X - (ctx.measureText(text).width / 2 - 6), point.Y + 60)
         ctx.stroke()
     }
 
